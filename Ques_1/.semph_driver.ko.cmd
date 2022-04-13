@@ -1,0 +1,1 @@
+cmd_/home/surya/ELDD_MODULE_EXAM/Ques_2/semph_driver.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/surya/ELDD_MODULE_EXAM/Ques_2/semph_driver.ko /home/surya/ELDD_MODULE_EXAM/Ques_2/semph_driver.o /home/surya/ELDD_MODULE_EXAM/Ques_2/semph_driver.mod.o;  true

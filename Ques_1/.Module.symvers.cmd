@@ -1,0 +1,1 @@
+cmd_/home/surya/ELDD_MODULE_EXAM/Ques_2/Module.symvers := sed 's/\.ko$$/\.o/' /home/surya/ELDD_MODULE_EXAM/Ques_2/modules.order | scripts/mod/modpost -m -a  -o /home/surya/ELDD_MODULE_EXAM/Ques_2/Module.symvers -e -i Module.symvers   -T -
